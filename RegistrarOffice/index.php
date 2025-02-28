@@ -117,10 +117,11 @@ if (isset($_SESSION['r_user_id']) &&
                         <div class="modal-dialog modal-xl">
                           <div class="modal-content">
                             <div class="modal-header">
-                              <h2 class="modal-title" id="exampleModalLabel"><b>Campus to Town Route </b>
-                              </h2>
-                              
+                              <h2 class="modal-title" id="exampleModalLabel"><b>Bus Route </b>
+                              </h2> 
                             </div>
+
+
                             <div class="modal-body"><b>For Student Bus Route</b>
                             <p class="text-left"><b>From Campus : </b>Campus -> College Mor -> Terminal -> Bot Toli -> Sahi Mosque -> BaluBari -> Hospital -> Boromath </p>
                           <p class="text-Left"><b>From Town : </b>Boromathe -> Hospital Mor -> Balu Bari  -> Sahi Mosque -> Bot Toli -> Terminal -> College Mor -> Campus </p>
@@ -129,6 +130,9 @@ if (isset($_SESSION['r_user_id']) &&
                           <p class="text-left"><b>From Campus : </b>Campus -> College Mor -> Churungi -> Kali tola -> Modern Mor -> Lili Mor -> Pahar Pur -> Boromath </p>
                           <p class="text-Left"><b>From Town : </b>Boromathe -> Pahar pur -> Lili Mor  -> Modern Mor -> Kali Tola -> Courungi -> College Mor -> Campus </p>
                            </div>
+
+
+                           
                             <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                           

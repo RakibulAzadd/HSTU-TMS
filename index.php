@@ -294,7 +294,7 @@ if ($upcoming_bus != 0) {
                             <div class="carousel-item">
                                 <div class="d-sm-flex row">
                                     <div class="profile-box col-sm-5">
-                                        <img decoding="async" src="./frontpage/images/services/b-4.jpg" class="img-fluid">
+                                        <img decoding="async" src="./frontpage/images/testimonial/testimonial-1.png" class="img-fluid">
                                     </div>
                                     <div class="card  col-sm-7">
                                         <div class="desc-box">
